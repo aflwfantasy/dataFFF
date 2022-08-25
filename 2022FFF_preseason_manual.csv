@@ -247,7 +247,7 @@ season_id,team_id,player_id,first_name,surname,position
 2022,FR,CD_I1016825,Matthew,Johnson,MID
 2022,FR,CD_I1012048,Sebit,Kuek,FWD
 2022,FR,CD_I990740,Rory,Lobb,FWD
-2022,FR,CD_I997933,Griffin,Logue,FWD
+2022,FR,CD_I997933,Griffin,Logue,DEF
 2022,FR,CD_I1000980,Lloyd,Meek,RUC
 2022,FR,CD_I240052,David,Mundy,MID
 2022,FR,CD_I1013220,Nathan,O'Driscoll,MID
@@ -580,7 +580,7 @@ season_id,team_id,player_id,first_name,surname,position
 2022,PA,CD_I294318,Ollie,Wines,MID
 2022,RI,CD_I992786,Jake,Aarts,FWD
 2022,RI,CD_I1000223,Liam,Baker,DEF
-2022,RI,CD_I1002245,Noah,Balta,DEF
+2022,RI,CD_I1002245,Noah,Balta,FWD
 2022,RI,CD_I1013197,Sam,Banks,DEF
 2022,RI,CD_I1021152,Jacob,Bauer,FWD
 2022,RI,CD_I993993,Shai,Bolton,FWD
@@ -676,7 +676,7 @@ season_id,team_id,player_id,first_name,surname,position
 2022,SY,CD_I291848,Robbie,Fox,DEF
 2022,SY,CD_I240399,Lance,Franklin,FWD
 2022,SY,CD_I1004113,Will,Gould,DEF
-2022,SY,CD_I1013128,Errol,Gulden,MID
+2022,SY,CD_I1013128,Errol,Gulden,FWD
 2022,SY,CD_I1023273,Hugo,Hall-Kahan,FWD
 2022,SY,CD_I997100,Will,Hayward,FWD
 2022,SY,CD_I298539,Isaac,Heeney,FWD
@@ -726,7 +726,7 @@ season_id,team_id,player_id,first_name,surname,position
 2022,WB,CD_I1004592,Tim,English,RUC
 2022,WB,CD_I1006533,Riley,Garcia,FWD
 2022,WB,CD_I997501,Ryan,Gardner,DEF
-2022,WB,CD_I1001449,Mitch,Hannan,DEF
+2022,WB,CD_I1001449,Mitch,Hannan,FWD
 2022,WB,CD_I294557,Lachie,Hunter,MID
 2022,WB,CD_I294101,Jason,Johannisen,FWD
 2022,WB,CD_I1020586,Arthur,Jones,FWD
@@ -739,12 +739,12 @@ season_id,team_id,player_id,first_name,surname,position
 2022,WB,CD_I996483,Toby,McLean,FWD
 2022,WB,CD_I1009015,Lachlan,McNeil,FWD
 2022,WB,CD_I1002404,Aaron,Naughton,FWD
-2022,WB,CD_I296041,Tim,O'Brien,DEF
+2022,WB,CD_I296041,Tim,O'Brien,FWD
 2022,WB,CD_I1023224,Charlie,Parker,FWD
 2022,WB,CD_I1012879,Cody,Raak,DEF
 2022,WB,CD_I1008280,Ed,Richards,DEF
 2022,WB,CD_I993841,Josh,Schache,FWD
-2022,WB,CD_I992048,Anthony,Scott,MID
+2022,WB,CD_I992048,Anthony,Scott,FWD
 2022,WB,CD_I1006130,Bailey,Smith,MID
 2022,WB,CD_I992054,Roarke,Smith,MID
 2022,WB,CD_I992330,Jordon,Sweet,RUC
