@@ -716,7 +716,7 @@ season_id,team_id,player_id,first_name,surname,position
 2022,WB,CD_I291492,Josh,Bruce,FWD
 2022,WB,CD_I1011992,Louis,Butler,MID
 2022,WB,CD_I1015929,Luke,Cleary,DEF
-2022,WB,CD_I991939,Zaine,Cordy,FWD
+2022,WB,CD_I991939,Zaine,Cordy,DEF
 2022,WB,CD_I293651,Hayden,Crozier,DEF
 2022,WB,CD_I996708,Bailey,Dale,DEF
 2022,WB,CD_I295136,Caleb,Daniel,DEF
@@ -739,7 +739,7 @@ season_id,team_id,player_id,first_name,surname,position
 2022,WB,CD_I996483,Toby,McLean,FWD
 2022,WB,CD_I1009015,Lachlan,McNeil,FWD
 2022,WB,CD_I1002404,Aaron,Naughton,FWD
-2022,WB,CD_I296041,Tim,O'Brien,FWD
+2022,WB,CD_I296041,Tim,O'Brien,DEF
 2022,WB,CD_I1023224,Charlie,Parker,FWD
 2022,WB,CD_I1012879,Cody,Raak,DEF
 2022,WB,CD_I1008280,Ed,Richards,DEF
